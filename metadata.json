@@ -1,0 +1,6 @@
+{
+  "name": "AWL Runtime v3.4 Simulator",
+  "description": "An interactive, high-precision visual simulator and dashboard for the AWL Runtime v3.4 Android Tasker automation and tracking engine, featuring real-time FSM debugger, sliding-window GPS filters, batch buffer I/O, and SQLite triggers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
